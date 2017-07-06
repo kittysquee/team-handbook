@@ -12,10 +12,11 @@ The handbook is a living document, not immutable law. It is meant to change and 
 - [When we work](when.md)
 - [Rituals / Recurring meetings](rituals.md)
 - [Internal Systems](internal_systems.md)
-  - Booking room
-  - Email
-  - Calendars
-  - Getting paid
+	  + Booking room
+    + Email
+	  + Calendars
+	  + Getting paid
   - [Design and development](d_and_d.md)
   - [Barnardo's](barnardos.md)
 - [Reading list](reading.md)
+- [Tools](tools.md)
