@@ -6,3 +6,8 @@ In order to make life better for remote folks, follow the following golden rules
 - Make sure the audio and video is working correctly. In the meeting room this means using a dedicated microphone. For individuals dialling in it means wearing a headset with a microphone in order to cut out ambient noise.
 - Mute yourself when you're just listening.
 - Make sure you are visible and your laptop or camera is on a steady surface. Tables are better than legs.
+
+## Tools we use
+
+[Webex](http://www.webex.com)
+
