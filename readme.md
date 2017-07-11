@@ -6,7 +6,6 @@ The handbook is a living document, not immutable law. It is meant to change and 
 # How we work
 - [Values](values.md)
 - [Getting started](getting_started.md)
-- [Acronyms](acronyms.md)
 - [Who does what](who.md)
 - [Where we work](where.md)
 - [When we work](when.md)
@@ -20,5 +19,7 @@ The handbook is a living document, not immutable law. It is meant to change and 
 	+ [Mac Troubleshooting](troubleshooting.md)
   - [Design and development](d_and_d.md)
   - [Barnardo's](barnardos.md)
+- [Acronyms](acronyms.md)
 - [Reading list](reading.md)
 - [Tools](tools.md)
+- [Team Rules](team-rules.md)
