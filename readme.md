@@ -13,6 +13,7 @@ The handbook is a living document, not immutable law. It is meant to change and 
 - [(Distributed) Meetings](meetings.md)
 - [Internal Systems](internal_systems.md)
 	+ Booking room
+	+ [Setting up equipment for team meeting](team_meeting_setup.md)
 	+ Email
 	+ Calendars
 	+ Getting paid
