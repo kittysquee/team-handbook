@@ -9,5 +9,8 @@ In order to make life better for remote folks, follow the following golden rules
 
 ## Tools we use
 
-[Webex](http://www.webex.com)
+  - For meetings with internal Barnardo's people we use [Webex](http://www.webex.com)
+  - For internal meetings with remote workers we tend to use [appear.in](https://appear.in)
+  - Slack also has an internal call function
+  - Hangouts when nothing else work
 
