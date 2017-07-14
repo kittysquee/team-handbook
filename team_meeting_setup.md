@@ -2,9 +2,9 @@
 
 ## Equipment
 
-1. Hitachi TV on the TV stand
+1. Hitachi TV
 2. Extention lead
-3. Macbook
+3. MacBook
 4. Logitech web cam
 5. Condenser boundary microphone
 6. Usb-c power lead (macbook power lead)
@@ -18,16 +18,16 @@
   - Connect HooToo usb-c hub (8) to the MacBook (3)
   - Connect HDMI cable (7) to the Hitachi TV (1)
   - Turn Hitachi TV (1) on and press button to the right of the 0 button on the Hitachi TV remote (9)
-  - press the up and down keys to select 3.HDMI1
+  - Press the up and down keys to select 3.HDMI1
   - Connect other end of HDMI cable (7) to the Hootoo usb-c hub (8). Your screen from your macbook will now appear on the Hitachi screen
     - If the screens do not fit correctly do the following
-      - On your Macbook go to the apple icon on the top right and click System Preferences
+      - On your MacBook go to the apple icon on the top right and click System Preferences
       - Click on Display
       - You will see a slidebar labelled underscan
-      - move the slider right to make the screen smaller, and left to make the screen bigger
+      - Move the slider right to make the screen smaller, and left to make the screen bigger
   - Position the condensor boundary microphone (5) in the middle of the table and connect to the HooToo usb-c hub (8). A red light will appear in the middle of the microphone.
   - Position the Logitech web cam (4) ontop of the Hitachi TV (1) and connect to the HooToo usb-c hub (8)
-  - Open Google Chrome on your Macbook (3) and go to the [appear.in for our team meeting](https://appear.in/barnardos-digital)
+  - Open Google Chrome on your MacBook (3) and go to the [appear.in for our team meeting](https://appear.in/barnardos-digital)
   - Click on Cam/Mic in the top navigation bar
   - Where it has a drop-down box labelled camera change from Facetime camera to HD Pro Webcam
   - Where it has a drop-down box labelled microphone change from built-in microphone to USB audio CODEC
