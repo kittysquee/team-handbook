@@ -1,15 +1,15 @@
-# Github for non-Gitters
+# GitHub for non-Gitters
 
 Or 'how can I contribute content, updates to content and content design using
 this amazing tool [named after](https://www.quora.com/Why-is-Git-called-Git) a
 pejorative, while installing no tools on my Barnardo's machine?'
 
-In this session, we'll get you a [Github
+In this session, we'll get you a [GitHub
 account](https://github.com/join?source=header-home) if you don't have one
-already, and we'll take you through how you can contribute via the Github web
+already, and we'll take you through how you can contribute via the GitHub web
 site without installing any software on your machine.
 
-## What git is
+## What Git is
 
 Git is, in the words of its author "the stupid content tracker". For content
 people, it exists to solve a problem with which we're all familiar:
@@ -19,13 +19,13 @@ people, it exists to solve a problem with which we're all familiar:
 ```
 
 Git tracks more than just one no-longer-poorly-named file, though. Git tracks
-whole folders. One of these folders, as tracked by git, is called a
+whole folders. One of these folders, as tracked by Git, is called a
 _repository_, or _repo_ for short. A repository tracks the whole history of a
 folder – all the additions, deletions and changes in it, who made them, and
 when. This all happens in a _branch_. A branch is just a line of _commits_ –
 changes made to the folder.
 
-The main (and often only) branch in a git repo is called _master_. The master
+The main (and often only) branch in a Git repo is called _master_. The master
 branch is important – this is where everyone's changes come together. If
 content's in master it's seen as good quality – it's been reviewed and it's
 ready to serve the purpose for which it exists.
@@ -39,8 +39,8 @@ handbook. The most recent commit is first in the list:
 
 Good question. For creating linkable content we can all use, the rise of the
 [Markdown](https://en.wikipedia.org/wiki/Markdown) language in the last several
-years has been notable. This page is itself written in [Github-flavoured
-Markdown](https://guides.github.com/features/mastering-markdown/). Markdown lets
+years has been notable. This page is itself written in [GitHub-flavoured
+Markdown](https://guides.Github.com/features/mastering-markdown/). Markdown lets
 you add headings, formatting, lists and links. It also reads well as plain text,
 which is critical, as it allows us to look at changes to content in a standard
 form.
@@ -58,7 +58,7 @@ box, then say *why* you've done it in the larger description box
 3. Repeat step 2. for as many things as you need to
 change 
 4. Commit your changes to a new branch (never commit to _master_ – even
-though Github makes it far too easy to do – unless you know why you're doing it)
+though GitHub makes it far too easy to do – unless you know why you're doing it)
 5. Open a pull request for your branch 
 6. Ask for people to comment 7. Wait for
 your excellent work to be merged with the _master_ branch.
@@ -73,7 +73,7 @@ Let's follow these steps as if we're adding a file.
 
 ### 2. Write your content
 
-Write your markdown. Here we've linked to some external Github help about how
+Write your markdown. Here we've linked to some external GitHub help about how
 our work flows, and added a couple of (nested) lists.
 
 ![](img/03-add-content.png "Add stuff")
@@ -85,7 +85,7 @@ and links now.
 
 ### 3. Committing your changes and making a branch
 
-Through the Github interface this happens at the same time. You'll see three
+Through the GitHub interface this happens at the same time. You'll see three
 boxes, two for your commit message and an area for creating a branch.
 
 We'll get to the commit message in a minute, but for now:
@@ -106,7 +106,7 @@ sense in the context of the repository.
 
 ##### Bad (in any context)
 
-* `deleted-stuff` `changes` `rgarner-patch-1` (Github default!)
+* `deleted-stuff` `changes` `rgarner-patch-1` (GitHub default!)
 
 #### A good commit message
 
@@ -114,13 +114,13 @@ Your commit message has two parts:
 
 1. a short summary of up to 50 or so characters detailing what it is you've
 changed 2. a longer description of why you've made the change. It's always easy
-to see what's been changed with git. It's much harder to figure out why, so take
+to see what's been changed with Git. It's much harder to figure out why, so take
 this opportunity to be kind to both future you and everyone else who's
 collaborating by thinking about why you're doing what you're doing and
-committing that to a textbox.
+committing that to a text box.
 
 When you're done, click "Propose new file". Your file will be committed on a new
-branch with the name you gave it, and Github is showing you a Pull Request page.
+branch with the name you gave it, and GitHub is showing you a Pull Request page.
 
 ### Opening a pull request
 
@@ -128,7 +128,7 @@ Your new file is now committed on your own branch, and you've got a record of
 why you made the change. All that remains(!) is to get your changes reviewed.
 When they're acceptable, they'll be merged to master.
 
-By this point, Github will be showing you the same text from your previous
+By this point, GitHub will be showing you the same text from your previous
 commit message on this "Open a pull request" page. You'll see this message along
 with any changes you've made to files:
 
@@ -153,8 +153,8 @@ your ticket to reviewer participation:
 
 #### Reviewing a PR
 
-Github lets you review changes using
-[tools](https://help.github.com/articles/about-pull-request-reviews/) that are
+GitHub lets you review changes using
+[tools](https://help.Github.com/articles/about-pull-request-reviews/) that are
 beyond the scope of this session. You can comment on the pull request as a
 whole, but reviews come into their own when you comment on individual lines:
 
