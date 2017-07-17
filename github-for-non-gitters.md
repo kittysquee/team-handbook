@@ -127,6 +127,11 @@ Your commit message has two parts:
 When you're done, click "Propose new file". Your file will be committed on a new
 branch with the name you gave it, and GitHub is showing you a Pull Request page.
 
+More hints on 
+[what makes a good commit message](https://github.com/barnardos/devs-manual/blob/master/styleguides/git.md) 
+(warning: developer-centric) are available in the 
+[devs-manual](https://github.com/barnardos/devs-manual).
+
 ### Opening a pull request
 
 Your new file is now committed on your own branch, and you've got a record of
@@ -197,3 +202,10 @@ around – click "Delete branch" to get rid of it.
 ![](img/12-merged.png "Done!")
 
 ![](img/13-delete.png "Clean up")
+
+And you're done!
+
+More 
+[detailed guidance](https://github.com/barnardos/devs-manual/blob/master/styleguides/pull-requests.md) 
+on what makes a good pull request (warning: developer-centric) is available
+in the [devs-manual](https://github.com/barnardos/devs-manual).
