@@ -60,8 +60,8 @@ change
 4. Commit your changes to a new branch (never commit to _master_ – even
 though GitHub makes it far too easy to do – unless you know why you're doing it)
 5. Open a pull request for your branch 
-6. Ask for people to comment 7. Wait for
-your excellent work to be merged with the _master_ branch.
+6. Ask for people to comment 
+7. Wait for your excellent work to be merged with the _master_ branch.
 
 Let's follow these steps as if we're adding a file.
 
@@ -113,11 +113,12 @@ sense in the context of the repository.
 Your commit message has two parts:
 
 1. a short summary of up to 50 or so characters detailing what it is you've
-changed 2. a longer description of why you've made the change. It's always easy
-to see what's been changed with Git. It's much harder to figure out why, so take
-this opportunity to be kind to both future you and everyone else who's
-collaborating by thinking about why you're doing what you're doing and
-committing that to a text box.
+   changed 
+2. a longer description of why you've made the change. It's always easy
+   to see what's been changed with Git. It's much harder to figure out why, so take
+   this opportunity to be kind to both future you and everyone else who's
+   collaborating by thinking about why you're doing what you're doing and
+   committing that to a text box.
 
 When you're done, click "Propose new file". Your file will be committed on a new
 branch with the name you gave it, and GitHub is showing you a Pull Request page.
