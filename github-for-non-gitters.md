@@ -1,4 +1,4 @@
-# Git for non-Gitters
+# Github for non-Gitters
 
 Or 'how can I contribute content, updates to content and content design using
 this amazing tool [named after](https://www.quora.com/Why-is-Git-called-Git) a
