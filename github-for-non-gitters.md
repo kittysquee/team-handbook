@@ -102,11 +102,15 @@ sense in the context of the repository.
 
 ##### Good (in the context of team handbook)
 
-* `add-acronyms` `remove-room-booking-broken-links` `content-style-guide`
+* `add-acronyms` 
+* `remove-room-booking-broken-links` 
+* `content-style-guide`
 
 ##### Bad (in any context)
 
-* `deleted-stuff` `changes` `rgarner-patch-1` (GitHub default!)
+* `deleted-stuff` 
+* `changes` 
+* `rgarner-patch-1` (GitHub default!)
 
 #### A good commit message
 
