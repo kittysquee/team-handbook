@@ -4,4 +4,8 @@ An outline of the org(anogram) chart with the people on the team, what they do, 
 
 Also a list of other key people you might want to be aware of.
 
+## People
+
+* Russell Garner – back-end development
+
 [←](readme.md)
