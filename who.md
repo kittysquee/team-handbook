@@ -7,5 +7,7 @@ Also a list of other key people you might want to be aware of.
 ## People
 
 * Russell Garner – back-end development
+* Audree Fletcher - head of service design
+* Emma Peagam - Associate Delivery Manager 
 
 [←](readme.md)
