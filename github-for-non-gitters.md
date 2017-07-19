@@ -43,7 +43,12 @@ years has been notable. This page is itself written in [GitHub-flavoured
 Markdown](https://guides.Github.com/features/mastering-markdown/). Markdown lets
 you add headings, formatting, lists and links. It also reads well as plain text,
 which is critical, as it allows us to look at changes to content in a standard
-form.
+form colloquially called a _diff_.
+
+Here's an example diff. The lines in green have been added, the line in red 
+removed:
+
+[![](img/01-1-diff.png "Example diff")](https://github.com/barnardos/team-handbook/commit/2d7c4a812cd73066fefda1e584c4558940561ba2)
 
 ## So how do I contribute?
 
