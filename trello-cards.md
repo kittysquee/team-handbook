@@ -1,6 +1,6 @@
 # How we write our Trello Cards
 
-_This outlines how the product team tries use Trello. This is not prescriptive, but migth be helpful for other teams, plus serve as a reminder for existing and new team members_
+_This outlines how the product team tries use Trello. This is not prescriptive, but might be helpful for other teams, plus serve as a reminder for existing and new team members_
 
 A ticket is considered ready when it has:
 
@@ -37,6 +37,8 @@ so I can {outcome}
 ```
 
 The user / job stories are generally best placed in the Description of the card.
+
+![](/img/trello-card.png "An examplary Trello card")
 
 # 2. Acceptance criteria
 
