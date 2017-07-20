@@ -10,12 +10,12 @@ Barnardo's [organisational structure can be found on B-Hive](http://livelink.bar
 
 ## People
 
+* Hafsah FitzGibbon - Service Design & Research
+* Audree Fletcher - Head of service design
+* Russell Garner – Back-end development
+* Emma Peagam - Associate Delivery Manager 
 * Nicklas Persson - Product Manager
 * Jessica Kyriacou - Design Researcher 
-* Russell Garner – Back-end development
-* Audree Fletcher - Head of service design
-* Emma Peagam - Associate Delivery Manager 
 * Jesse Mears - Service Designer and Researcher
-* Hafsah FitzGibbon - Service Design & Research
 
 [←](readme.md)
