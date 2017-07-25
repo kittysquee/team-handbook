@@ -17,5 +17,6 @@ Barnardo's [organisational structure can be found on B-Hive](http://livelink.bar
 * Emma Peagam - Associate Delivery Manager 
 * Jesse Mears - Service Designer and Researcher
 * Hafsah FitzGibbon - Service Design & Research
+* Stewart Young - Associate Delivery Manager
 
 [←](readme.md)
