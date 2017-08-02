@@ -63,3 +63,16 @@ Links to Pull Requests, associated cards, documents and other related URLs is be
 # 5. Labels
 
 We use labels to identify blockers, epics, stories and chores. The labels are flexible and can be changed to accommodate the particular needs of the team.
+
+# 6. Definition of Ready
+
+A story is **Ready for Development** when it is captured in Trello with:
+- A title
+- A description that articulates the 'What', the 'Why', and the Persona
+- All acceptance criteria (BDD scenarios, if useful to define failures cases, edge cases etc.)
+- A priority (the higher a story is in the backlog, the higher the priority) that has been agreed by the Product Owner and the whole team
+- An estimate (story points)
+- UX wireframes/mockups (when relevant to the story)
+- Dependencies (if applicable)
+- And it is achievable in one sprint
+Until a story is **Ready for Development** it cannot be added to a sprint.
