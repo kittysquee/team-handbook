@@ -6,7 +6,7 @@ _This list was conceived in a team meeting in June 2017, it can and should be ad
 - Clear up after yourself 
 - Use the dishwasher
 - Be respectful of the rest of the office - noise carries
-- No cotton wool or velvet gloves
+- No cotton wool or velvet or styrofoam
 - Don't be a dick
 	- within the team
 	- Especially about the rest of the organisation
