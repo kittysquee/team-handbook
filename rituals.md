@@ -6,7 +6,7 @@ The team has a few recurring events that helps set our working pace.
 - The Show and Tell allows us to show the work we've been doing for the last month to the wider Barnardo's team, and happens at Barkingside and [online](http://dr.barnar.do/live) on the first Tuesday of the month at 12:30.
 
 ## Team Meeting
-- The all-team meeting happens every Wednesday at 11:00-11:45 in the Euston office.  
+- The all-team meeting happens every Tuesday or Wednesday (on [alternate weeks](https://barnardos.slack.com/messages/G46UGLXF1/convo/G46UGLXF1-1506410906.000127/)) at 10.30-11:30 in the Euston office.  
 
 ## Standups
 - Management: Daily at 10:30
