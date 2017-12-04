@@ -18,5 +18,7 @@ Barnardo's [organisational structure can be found on B-Hive](http://livelink.bar
 * Jesse Mears - Service Designer and Researcher
 * Hafsah FitzGibbon - Service Design & Research
 * Stewart Young - Associate Delivery Manager
+* Toby Osbourn - Back End Development
+* Elaine Osbourn - Back End Development
 
 [←](readme.md)
