@@ -32,3 +32,5 @@
   - Where it has a drop-down box labelled camera change from Facetime camera to HD Pro Webcam
   - Where it has a drop-down box labelled microphone change from built-in microphone to USB audio CODEC
   - Click Save. Your screen will refresh and will now be using the external camera and microphone
+
+[←](readme.md)
